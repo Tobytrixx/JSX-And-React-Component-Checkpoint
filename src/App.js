@@ -3,7 +3,6 @@ import React from "react";
 import "./App.css";
 import Card from 'react-bootstrap/Card';
 import jsonObj from "./components/product";
-import Image from "./components/Image";
 import Name from "./components/Name";
 import Price from "./components/Price";
 import Description from "./components/Description";
